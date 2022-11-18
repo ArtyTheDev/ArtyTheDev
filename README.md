@@ -1,4 +1,4 @@
-<img align="left" src="https://i.ibb.co/LgWtWPw/49cf1104d243b03e9af28a9f8cf4031a-1.png" style="border-radius:50%" width="350">
+<img align="left" src="https://i.ibb.co/LgWtWPw/49cf1104d243b03e9af28a9f8cf4031a-1.png" style="border-radius:50%" width="300">
 
 
 ### Hello there
