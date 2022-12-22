@@ -6,10 +6,10 @@
 I mostly use **Python** for my projects but I can also do Typescript and C (Still beginner)
 
 ### 💻 My Workstation
-
-**CPU:** AMD Ryzen 5 3600x<br>
-**GPU:** Nvidia Geforce GTX 1070 Ti 8GB GDDR5<br>
+**Device Name:** HP Victus 15.6" Intel Version<br>
+**CPU:** Intel core i5 12450h<br>
+**GPU:** Nvidia Geforce GTX 1650 4GB GDRR6<br>
 **RAM:** 16GB DDR4 3200mhz<br>
-**Display:** 1080p 144hz<br>
-**Storge:** 1TB Samsung 980<br>
+**Display:** 1080p 144h IPSz<br>
+**Storge:** 512GB HP<br>
 **Code Editor**: Visual Studio Code<br>
